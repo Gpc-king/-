@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="stuManagerPeng">
+    <output-path>$PROJECT_DIR$/out/artifacts/stuManagerPeng</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="stuManagerPeng/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="stuManagerPeng" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
